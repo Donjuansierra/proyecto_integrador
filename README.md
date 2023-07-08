@@ -8,13 +8,13 @@ Esta es una aplicación que genera un laberinto jugable utilizando el lenguaje d
 ## instrucciones de instalación
 
 - Instalar Python en tu sistema Mac / Windows / Linux
-- clonar o descargar el repositorio de GitHub por medio del siguiente enlace: https://github.com/Donjuansierra/proyecto_integrador.git
+- Clonar o descargar el repositorio de GitHub por medio del siguiente enlace: https://github.com/Donjuansierra/proyecto_integrador.git
 - En caso de haber descargado el archivo descomprimirlo en la ubicación deseada.
 
 ## Uso del repositorio
 
 1. Ingresar a la terminal de comandos navegar con el comando "cd" hasta la ubicación del directorio en donde se encuentra el proyecto.
-2. ejecutar el archivo "main.py" por medio de alguno de los siguientes comandos:
+2. Ejecutar el archivo "main.py" por medio de alguno de los siguientes comandos:
 
 > python main.py 
 
@@ -37,7 +37,8 @@ Seguir los siguientes pasos:
 3. Envía una solicitud de extracción (pull request) con una descripción clara de los cambios realizados.
 4. Se revisará tu contribución y se incorporará al proyecto principal si es aceptada.
 
-### Desarrollador 
+## Desarrollador 
 
 *__Autor__* : Juan Sebastian Sierra Chaparro (__Donjuansierra__)
+
 *__Contacto__* : jsierrachaparro@gmail.com o  https://github.com/Donjuansierra 
