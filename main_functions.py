@@ -3,7 +3,9 @@ import readchar
 from typing import List, Tuple
 
 def string_to_matrix(laberinto: str):
-    return [list(row) for row in laberinto.strip().split('\n')]
+    matrix = list(map(list, laberinto.split("\n")))
+    return matrix
+
 
 def screen(mapa):
 
